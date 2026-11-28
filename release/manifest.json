@@ -1,7 +1,7 @@
 {
   "package": "SparkHomeAudio",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "architecture": "braswell",
-  "sha256": "5fcfe574b22b80a85877dc62296bf32c9c58f0fc55cfc61fc8f8f447e269ed4a",
+  "sha256": "b916193f5b889d2b4beb26ac08b0b04e5b59af7c68320b1df1de68fdca1c82a1",
   "size": 9717760
 }
